@@ -1,0 +1,32 @@
+_repo: Don-Balasco-Key-Westista-Nykyajan-kertomus-Kuubasta_64376
+_version: 0.0.1
+alternative_title: Don Balasco of Key West. Finnish
+contributor:
+  translator:
+    agent_name: A. V. K.
+    gutenberg_agent_id: '52875'
+    url: http://www.gutenberg.org/2009/agents/52875
+creator:
+  author:
+    agent_name: Gunter, Archibald Clavering
+    alias: Warneford, Lieutenant
+    birthdate: 1847
+    deathdate: 1907
+    gutenberg_agent_id: '36282'
+    url: http://www.gutenberg.org/2009/agents/36282
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Clavering_Gunter
+description: ''
+gutenberg_issued: '2021-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64376'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Key West (Fla.) -- Fiction'
+- GITenberg
+title: 'Don Balasco Key Westistä: Nykyajan kertomus Kuubasta'
+url: http://www.gutenberg.org/ebooks/64376
